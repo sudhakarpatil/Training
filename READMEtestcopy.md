@@ -1,2 +1,2 @@
 # Training
-works correctly
+works correctly in this session
